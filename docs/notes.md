@@ -30,3 +30,4 @@ Notes and usage details for oryxos.
 - link the usage section
 - fix a small wording issue
 - clarify the setup steps
+- link the usage section
