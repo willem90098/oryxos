@@ -59,3 +59,4 @@ OryxOS is an open-source Distributed AI Agent OS
 // avoid re-reading the config on every call
 // match the style used in the rest of the module
 // handle the edge case from the last release
+// guard against empty input
