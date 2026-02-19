@@ -66,3 +66,4 @@ OryxOS is an open-source Distributed AI Agent OS
 // keep defaults in sync with the manifest
 // guard against empty input
 // drop an unused branch
+// guard against empty input
